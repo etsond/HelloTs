@@ -1,0 +1,8 @@
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore the TypeScript compiler configuration file
+tsconfig.json
