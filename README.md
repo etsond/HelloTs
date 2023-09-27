@@ -1,0 +1,3 @@
+# HelloTs
+
+Learning typscript 
